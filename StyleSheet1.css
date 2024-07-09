@@ -1,0 +1,21 @@
+﻿@charset "utf-8";
+
+body {
+    background-color: azure;
+}
+
+#a{
+    color:black;
+    font-size: 20px;
+    text-align: right;
+}
+
+#subtitle{
+    color:black;
+    font-size: 30px;
+    text-align: center;
+}
+
+#URL{
+    font-size:20px;
+}
